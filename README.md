@@ -4,7 +4,7 @@ Tasks, exercises and homeworks from java courses
 <h2 id="header">
  spring_framework
 </h2>
-Spring basics || Spring Boot || Spring Security || Web applications || REST Api || Kafka
+Spring basics || Spring Boot || Spring Security || Web applications || REST Api || Docker || Kafka
 <br>
 <br>
 <h2 id="header">
