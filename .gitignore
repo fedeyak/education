@@ -1,0 +1,28 @@
+# Игнорируем вложенные Git-репозитории
+/java_basics/.git
+/spring_framework/.git
+
+# Игнорируем общие файлы IDE и окружения
+*.iml
+.idea/
+*.log
+*.DS_Store
+.vscode/
+node_modules/
+target/
+out/
+
+# Игнорируем артефакты сборки (Maven, Gradle)
+*.class
+*.jar
+*.war
+*.ear
+/build/
+/dist/
+/.gradle/
+/.mvn/
+
+# Игнорируем временные файлы операционной системы
+Thumbs.db
+ehthumbs.dbjava_basics/.git
+spring_framework/.git
